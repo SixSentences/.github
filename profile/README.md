@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sixsentences-mark.svg" width="96" alt="SixSentences mark">
+  <img src="https://raw.githubusercontent.com/SixSentences/.github/main/profile/assets/sixsentences-mark.svg" width="96" alt="SixSentences mark">
 </p>
 
 <h1 align="center">SixSentences</h1>
@@ -21,8 +21,8 @@ and writing while keeping inputs, transformations, provenance, and human
 decisions inspectable.
 
 The [`sixsentences`](https://github.com/SixSentences/sixsentences) repository
-ships an open Python research engine and a sanitized Next.js workspace client.
-The integrated hosted service remains available at
+contains the self-hostable community stack. The integrated hosted service
+remains available at
 [app.sixsentences.com](https://app.sixsentences.com).
 
 Project details, setup, scope, roadmap, security, and contribution guidance all
